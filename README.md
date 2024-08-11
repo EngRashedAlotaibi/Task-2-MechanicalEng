@@ -1,3 +1,3 @@
 # Task-2-MechanicalEng
 
-![caption](arm.gif)
+This file shows the second task in mechanical engineering path 
